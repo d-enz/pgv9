@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/go-pg/pg/v9/types"
+	"github.com/d-enz/pgv9/types"
 	"github.com/go-pg/zerochecker"
 )
 

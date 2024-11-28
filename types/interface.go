@@ -3,7 +3,7 @@ package types
 import (
 	"sync"
 
-	"github.com/go-pg/pg/v9/internal"
+	"github.com/d-enz/pgv9/internal"
 )
 
 type ValueScanner interface {

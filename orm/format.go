@@ -7,9 +7,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/go-pg/pg/v9/internal"
-	"github.com/go-pg/pg/v9/internal/parser"
-	"github.com/go-pg/pg/v9/types"
+	"github.com/d-enz/pgv9/internal"
+	"github.com/d-enz/pgv9/internal/parser"
+	"github.com/d-enz/pgv9/types"
 )
 
 var defaultFmter = NewFormatter()

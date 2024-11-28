@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/go-pg/pg/v9"
+	"github.com/d-enz/pgv9"
 )
 
 type Test struct {

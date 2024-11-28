@@ -4,7 +4,7 @@ import (
 	"io"
 	"net"
 
-	"github.com/go-pg/pg/v9/internal"
+	"github.com/d-enz/pgv9/internal"
 )
 
 // ErrNoRows is returned by QueryOne and ExecOne when query returned zero rows

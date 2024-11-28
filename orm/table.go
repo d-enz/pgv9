@@ -15,9 +15,9 @@ import (
 	"github.com/jinzhu/inflection"
 	"github.com/vmihailenco/tagparser"
 
-	"github.com/go-pg/pg/v9/internal"
-	"github.com/go-pg/pg/v9/pgjson"
-	"github.com/go-pg/pg/v9/types"
+	"github.com/d-enz/pgv9/internal"
+	"github.com/d-enz/pgv9/pgjson"
+	"github.com/d-enz/pgv9/types"
 	"github.com/go-pg/zerochecker"
 )
 

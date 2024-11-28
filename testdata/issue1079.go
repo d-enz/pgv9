@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/go-pg/pg/v9"
-	"github.com/go-pg/pg/v9/orm"
+	"github.com/d-enz/pgv9"
+	"github.com/d-enz/pgv9/orm"
 )
 
 type MyType struct {

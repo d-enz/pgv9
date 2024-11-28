@@ -7,9 +7,9 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/go-pg/pg/v9/internal"
-	"github.com/go-pg/pg/v9/internal/pool"
-	"github.com/go-pg/pg/v9/orm"
+	"github.com/d-enz/pgv9/internal"
+	"github.com/d-enz/pgv9/internal/pool"
+	"github.com/d-enz/pgv9/orm"
 )
 
 // ErrTxDone is returned by any operation that is performed on a transaction
